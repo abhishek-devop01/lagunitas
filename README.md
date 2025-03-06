@@ -1,3 +1,4 @@
 # lagunitas
-canvas effect.
+canvas scrolling e
+animation.
 

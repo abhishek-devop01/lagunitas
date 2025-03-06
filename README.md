@@ -1,4 +1,4 @@
 # lagunitas
-canvas scrolling e
+canvas scrolling 
 animation.
 
